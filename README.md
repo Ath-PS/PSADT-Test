@@ -11,3 +11,5 @@ Show-ADTInstallationWelcome -CloseProcesses $adtSession.AppProcessesToClose -All
 
 Show-ADTInstallationWelcome -CloseProcesses $adtSession.AppProcessesToClose -AllowDeferCloseProcesses -DeferTimes 3 -CloseProcessesCountdown 30 -ContinueOnProcessClosure
 Show-ADTInstallationWelcome -CloseProcesses $adtSession.AppProcessesToClose -AllowDeferCloseProcesses -DeferTimes 3 -CloseProcessesCountdown 30
+
+:)
